@@ -25,7 +25,6 @@ def build_model(num_classes=8):
     model.add(Flatten())
     model.add(Dense(num_classes,activation="softmax"))
     model.add(Dropout(0.4))
-
     model.add(Dense(num_classes, activation="softmax"))
 
     model.compile(
