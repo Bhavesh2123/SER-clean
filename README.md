@@ -1,10 +1,4 @@
-Perfect. I’ll give you a **clean, natural, human-written README** — not robotic, not over-polished, not “AI-generated sounding.” It will feel like a serious student/engineer built it thoughtfully.
-
-You can paste this directly into your `README.md`.
-
----
-
-# 🎙 Speech Emotion Recognition using Convolutional Neural Networks
+# Speech Emotion Recognition using Convolutional Neural Networks
 
 ## Project Overview
 
