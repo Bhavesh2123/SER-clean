@@ -12,7 +12,7 @@ def time_stretch(signal, rate=1.0):
 def pitch_shift(signal, sr, n_steps=0):
     return librosa.effects.pitch_shift(signal, sr=sr, n_steps=n_steps)
 
-def extract_mfcc(file_path):
+def extract_mfcc(file_path,augment=False):
     signal, sr = librosa.load(file_path, sr=SAMPLE_RATE)
     if augment:
         choice=random.choice(["noise","stretch","pitch",None])
