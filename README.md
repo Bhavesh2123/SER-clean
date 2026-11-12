@@ -142,10 +142,3 @@ This project demonstrates the end-to-end pipeline of a speech-based deep learnin
 
 ---
 
-If you want, I can now:
-
-* Make it **more technical (for ML engineer roles)**
-* Make it **cleaner and shorter (for recruiters)**
-* Or help you turn this into a GitHub portfolio project that stands out visually**
-
-What role are you targeting — ML Engineer, Data Scientist, or AI Research Intern?
